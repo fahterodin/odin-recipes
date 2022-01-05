@@ -1,0 +1,37 @@
+.header {
+    background-color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.title {
+    background-color: blue;
+    color: chartreuse;
+    font-size: 28px;
+}
+
+.recipes {
+    background-color: darkgoldenrod;
+    font-size: 50px;
+}
+
+.steps {
+    color: darkkhaki;
+    font-weight: bold;
+}
+
+.img {
+    width: auto;
+    height: 300px;
+}
+
+p {
+    font-family: monospace;
+}
+
+.taste {
+    font-size: 14px;
+    font-family: serif;
+    background-color: darkslateblue;
+}
